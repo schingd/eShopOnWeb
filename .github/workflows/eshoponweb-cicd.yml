@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-schingd
   LOCATION: canadacentral
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: d8bc1a89-9412-48cd-83ed-88ff653df113YOUR-SUBS-ID
+  SUBSCRIPTION-ID: d8bc1a89-9412-48cd-83ed-88ff653df113
   WEBAPP-NAME: eshoponweb-webapp-schingd
 
 jobs:
